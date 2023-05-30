@@ -5,7 +5,7 @@ Summary: A small package for Game Recommender System
 Home-page: https://github.com/sasitarrr/Games-Recommender-System-Using-Machine-Learning
 Author: sasitarrr
 Author-email: sasitarrr@hotmail.com
-Requires-Python: >=3.11
+Requires-Python: >=3.7.16
 Description-Content-Type: text/markdown
 
 Games-Recommender-System-Using-Machine-Learning
